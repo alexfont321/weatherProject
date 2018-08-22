@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alex",
+      "password": "password",
+      "zipCode": 37211
+    },
+    {
+      "username": "someNewUser",
+      "password": "check",
+      "zipCode": 76102,
+      "id": 2
+    },
+    {
+      "username": "ricky",
+      "password": "sucks",
+      "zipCode": 20843,
+      "id": 3
+    },
+    {
+      "username": "ricky",
+      "password": "ihatehim",
+      "zipCode": 70495,
+      "id": 4
+    },
+    {
+      "username": "rickyMain",
+      "password": "LogIn",
+      "zipCode": 13224,
+      "id": 5
+    },
+    {
+      "username": "jon",
+      "password": "jon",
+      "zipCode": 99144,
+      "id": 6
+    },
+    {
+      "username": "streator",
+      "password": "ward",
+      "zipCode": 26374,
+      "id": 7
+    },
+    {
+        "username": "fig",
+        "password": "fig",
+        "zipCode": 33317,
+        "id": 8
+      }
+
+  ]
+}
